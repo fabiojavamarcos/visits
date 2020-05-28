@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590609249837.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "13580FA1",
+    "lastKnownWriteTime" : 46,
+    "last_content_update" : 1590609249837,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "35018D27",
+        "caption" : "visits_orde_c_temp.df",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=visits_orde_c_temp.df&cache_key=35018D27",
+        "displayedObservations" : 632,
+        "environment" : "",
+        "expression" : "visits_orde_c_temp.df",
+        "object" : "visits_orde_c_temp.df",
+        "preview" : 0,
+        "totalObservations" : 632,
+        "variables" : 3
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

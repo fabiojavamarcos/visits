@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590275989162.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3972132752",
+    "id" : "39715F4B",
+    "lastKnownWriteTime" : 1590276084,
+    "last_content_update" : 1590276084218,
+    "path" : "~/Dropbox/UniRio/ED5/visits/visits_prop.R",
+    "project_path" : "visits_prop.R",
+    "properties" : {
+        "cursorPosition" : "37,26",
+        "scrollLine" : "25",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

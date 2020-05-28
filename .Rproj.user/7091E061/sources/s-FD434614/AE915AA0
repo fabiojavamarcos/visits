@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590277456500.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AE915AA0",
+    "lastKnownWriteTime" : 1590276549,
+    "last_content_update" : 1590276549,
+    "path" : "~/Dropbox/UniRio/ED5/visits/Stan/zprostate.stan",
+    "project_path" : "Stan/zprostate.stan",
+    "properties" : {
+        "cursorPosition" : "27,6",
+        "scrollLine" : "17"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "stan"
+}
